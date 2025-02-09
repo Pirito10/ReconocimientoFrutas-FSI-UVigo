@@ -33,4 +33,4 @@ reconocimiento_frutas(images/F10.jpg);
 ```
 
 ## About The Code
-Refer to [`Especificaciones.pdf`](docs/Memoria.pdf) and [`Memoria.pdf`](docs/Memoria.pdf) for an in-depth explanation of the project, how to run it, how the system and algorithm works, results and performace, and more.
+Refer to [`Especificaciones.pdf`](docs/Especificaciones.pdf) and [`Memoria.pdf`](docs/Memoria.pdf) for an in-depth explanation of the project, how to run it, how the system and algorithm works, results and performace, and more.
