@@ -23,9 +23,9 @@ Make sure you have [MATLAB](https://www.mathworks.com/products/matlab.html) inst
 ```matlab
 reconocimiento_frutas(<file>);
 ```
-| Option | Description |
-|--------|-------------|
-| `file` | Specifies the file to analyze |
+| Option | Description | Example |
+|--------|-------------|---------|
+| `file` | File to analyze | `F10.jpg` |
 
 #### Example
 ```matlab
